@@ -3,7 +3,9 @@ Este projeto une conceitos de Internet das Coisas, automação e segurança, per
 Desenvolvemos duas versões do sistema:
   - A primeira, com comunicação Bluetooth, foi focada no gerenciamento local dos cadastros.
   - E a segunda, com conectividade Wi-Fi, que é responsável por enviar notificações automáticas diretamente para um aplicativo, como o Telegram.
+
 O nosso objetivo foi criar uma solução acessível, eficiente e escalonável, que pode ser aplicada em residências, laboratórios, escritórios ou qualquer lugar que precise de um controle de acesso simples e confiável.
+
 Materiais:
   - 2x ESP-32 DEVKIT V1;
   - 2x Protoboard;
